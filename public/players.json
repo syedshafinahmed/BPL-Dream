@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Shakib_Al_Hasan_2015.jpg/800px-Shakib_Al_Hasan_2015.jpg",
+      "image": "https://i.ibb.co.com/sv1pWVXM/1696748634550-Shakib-Al-Hasan.jpg",
       "name": "Shakib Al Hasan",
       "country": "Bangladesh",
       "role": "All-rounder",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mushfiqur_Rahim_2019.jpg/800px-Mushfiqur_Rahim_2019.jpg",
+      "image": "https://i.ibb.co.com/933yJL9M/Mushfiqur-Rahim.png",
       "name": "Mushfiqur Rahim",
       "country": "Bangladesh",
       "role": "Wicketkeeper-batter",
@@ -23,7 +23,7 @@
     },
     {
       "id": 3,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mahmudullah_Riyad_2019.jpg/800px-Mahmudullah_Riyad_2019.jpg",
+      "image": "https://i.ibb.co.com/ZpcWWfdp/235603-3.webp",
       "name": "Mahmudullah",
       "country": "Bangladesh",
       "role": "All-rounder",
@@ -34,7 +34,7 @@
     },
     {
       "id": 4,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mustafizur_Rahman_2019.jpg/800px-Mustafizur_Rahman_2019.jpg",
+      "image": "https://i.ibb.co.com/WNcB8yT2/Cricketer-Mustafizur-Rahman-Profile.webp",
       "name": "Mustafizur Rahman",
       "country": "Bangladesh",
       "role": "Bowler",
@@ -45,7 +45,7 @@
     },
     {
       "id": 5,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Liton_Das_2019.jpg/800px-Liton_Das_2019.jpg",
+      "image": "https://i.ibb.co.com/fdNQ3g2k/a59b51c8-liton-das-afp-625x300-01-March-20.webp",
       "name": "Liton Das",
       "country": "Bangladesh",
       "role": "Wicketkeeper-batter",
@@ -56,7 +56,7 @@
     },
     {
       "id": 6,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Taskin_Ahmed_2019.jpg/800px-Taskin_Ahmed_2019.jpg",
+      "image": "https://i.ibb.co.com/bMg7RmkL/252917.jpg",
       "name": "Taskin Ahmed",
       "country": "Bangladesh",
       "role": "Bowler",
@@ -67,8 +67,8 @@
     },
     {
       "id": 7,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sabbir_Rahman_2019.jpg/800px-Sabbir_Rahman_2019.jpg",
-      "name": "Sabbir Rahman",
+      "image": "https://i.ibb.co.com/SXNF9Z2Q/1606401864-5fbfbf484ee2f-saif-hassan.jpg",
+      "name": "Saif Hassan",
       "country": "Bangladesh",
       "role": "Batter",
       "rating": 720,
@@ -78,18 +78,18 @@
     },
     {
       "id": 8,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mosaddek_Hossain_2019.jpg/800px-Mosaddek_Hossain_2019.jpg",
-      "name": "Mosaddek Hossain",
+      "image": "https://i.ibb.co.com/KjWKPbP9/4036-260-20050.jpg",
+      "name": "Tanzid Hasan",
       "country": "Bangladesh",
       "role": "All-rounder",
       "rating": 710,
-      "batting_style": "Right-handed",
+      "batting_style": "Left-handed",
       "bowling_style": "Right-arm off break",
       "price_usd": 600000
     },
     {
       "id": 9,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Naim_Sheikh_2019.jpg/800px-Naim_Sheikh_2019.jpg",
+      "image": "https://i.ibb.co.com/M5xVzjL1/Shanto-c21f425b385cb592ce32fd6422ac92f7.webp",
       "name": "Najmul Hossain Shanto",
       "country": "Bangladesh",
       "role": "Batter",
@@ -100,8 +100,8 @@
     },
     {
       "id": 10,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fahim_Mashrafe_2019.jpg/800px-Fahim_Mashrafe_2019.jpg",
-      "name": "Fahim Mashrafe",
+      "image": "https://i.ibb.co.com/YFghRnJX/356458-6.webp",
+      "name": "Towhid Hridoy",
       "country": "Bangladesh",
       "role": "Bowler",
       "rating": 700,
@@ -111,7 +111,7 @@
     },
     {
       "id": 11,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Babar_Azam_2023.jpg/800px-Babar_Azam_2023.jpg",
+      "image": "https://i.ibb.co.com/N2YFgy6P/post-image-a66c072.jpg",
       "name": "Babar Azam",
       "country": "Pakistan",
       "role": "Batter",
@@ -122,7 +122,7 @@
     },
     {
       "id": 12,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Joe_Root_2018.jpg/800px-Joe_Root_2018.jpg",
+      "image": "https://i.ibb.co.com/9mR1SQbB/2c599920-ef7b-11ef-bfcc-df31b19992af.jpg",
       "name": "Joe Root",
       "country": "England",
       "role": "Batter",
@@ -133,7 +133,7 @@
     },
     {
       "id": 13,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kane_Williamson_2015.jpg/800px-Kane_Williamson_2015.jpg",
+      "image": "https://i.ibb.co.com/k2MbgPP7/kane-Williamson.webp",
       "name": "Kane Williamson",
       "country": "New Zealand",
       "role": "Batter",
@@ -144,7 +144,7 @@
     },
     {
       "id": 14,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/David_Warner_2019.jpg/800px-David_Warner_2019.jpg",
+      "image": "https://i.ibb.co.com/N6cmVV8f/warner-player-of-the-tournamen-0-1200x768-1-1.webp",
       "name": "David Warner",
       "country": "Australia",
       "role": "Batter",
@@ -155,7 +155,7 @@
     },
     {
       "id": 15,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ben_Stokes_2019.jpg/800px-Ben_Stokes_2019.jpg",
+      "image": "https://i.ibb.co.com/0R5trR9j/5fc51822a2798d8d96eb8dd7-benstokes-thumb-6.jpg",
       "name": "Ben Stokes",
       "country": "England",
       "role": "All-rounder",
@@ -166,7 +166,7 @@
     },
     {
       "id": 16,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Steve_Smith_2019.jpg/800px-Steve_Smith_2019.jpg",
+      "image": "https://i.ibb.co.com/PZSzKHWM/01stevesmith.webp",
       "name": "Steve Smith",
       "country": "Australia",
       "role": "Batter",
@@ -177,7 +177,7 @@
     },
     {
       "id": 17,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Quinton_de_Kock_2019.jpg/800px-Quinton_de_Kock_2019.jpg",
+      "image": "https://i.ibb.co.com/sdjnc4xv/sh-14145044ar-1-1000x640.jpg",
       "name": "Quinton de Kock",
       "country": "South Africa",
       "role": "Wicketkeeper-batter",
@@ -188,7 +188,7 @@
     },
     {
       "id": 18,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Faf_du_Plessis_2019.jpg/800px-Faf_du_Plessis_2019.jpg",
+      "image": "https://i.ibb.co.com/7tZ9SH3j/ghnw20160803-091403-027.jpg",
       "name": "Faf du Plessis",
       "country": "South Africa",
       "role": "Batter",
@@ -199,7 +199,7 @@
     },
     {
       "id": 19,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Kagiso_Rabada_2019.jpg/800px-Kagiso_Rabada_2019.jpg",
+      "image": "https://i.ibb.co.com/HT5HftWb/278d1830-29ab-11f0-a252-f789f44e224b.jpg",
       "name": "Kagiso Rabada",
       "country": "South Africa",
       "role": "Bowler",
@@ -210,7 +210,7 @@
     },
     {
       "id": 20,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mitchell_Starc_2019.jpg/800px-Mitchell_Starc_2019.jpg",
+      "image": "https://i.ibb.co.com/bwRZdLJ/402778.webp",
       "name": "Mitchell Starc",
       "country": "Australia",
       "role": "Bowler",
@@ -221,7 +221,7 @@
     },
     {
       "id": 21,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Trent_Boult_2019.jpg/800px-Trent_Boult_2019.jpg",
+      "image": "https://i.ibb.co.com/nNgJ4VXF/4-M10-RP0-copyright-image-280261.webp",
       "name": "Trent Boult",
       "country": "New Zealand",
       "role": "Bowler",
@@ -232,7 +232,7 @@
     },
     {
       "id": 22,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Shaheen_Shah_Afridi_2019.jpg/800px-Shaheen_Shah_Afridi_2019.jpg",
+      "image": "https://i.ibb.co.com/vxZsvXpt/Shaheen-Afridi-2.jpg",
       "name": "Shaheen Afridi",
       "country": "Pakistan",
       "role": "Bowler",
@@ -243,7 +243,7 @@
     },
     {
       "id": 23,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Moeen_Ali_2019.jpg/800px-Moeen_Ali_2019.jpg",
+      "image": "https://i.ibb.co.com/ksRzxq3r/skysports-moeen-ali-the-ashes-4744522.jpg",
       "name": "Moeen Ali",
       "country": "England",
       "role": "All-rounder",
@@ -254,7 +254,7 @@
     },
     {
       "id": 24,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pat_Cummins_2019.jpg/800px-Pat_Cummins_2019.jpg",
+      "image": "https://i.ibb.co.com/FkYWtbxW/Whats-App-Image-2024-05-31-at-03-20-46.webp",
       "name": "Pat Cummins",
       "country": "Australia",
       "role": "Bowler",
@@ -265,7 +265,7 @@
     },
     {
       "id": 25,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Williamson_2019.jpg/800px-Williamson_2019.jpg",
+      "image": "https://i.ibb.co.com/XxR1D8NV/southee-balck-d.webp",
       "name": "Tim Southee",
       "country": "New Zealand",
       "role": "Bowler",
@@ -276,7 +276,7 @@
     },
     {
       "id": 26,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chris_Gayle_2019.jpg/800px-Chris_Gayle_2019.jpg",
+      "image": "https://i.ibb.co.com/jkNdJnsS/Whats-App-Image-2024-01-25-at-07-52-01.webp",
       "name": "Chris Gayle",
       "country": "West Indies",
       "role": "Batter",
@@ -287,7 +287,7 @@
     },
     {
       "id": 27,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jason_Roy_2019.jpg/800px-Jason_Roy_2019.jpg",
+      "image": "https://i.ibb.co.com/rKSL5dxg/skysports-jason-roy-the-hundred-4803508.jpg",
       "name": "Jason Roy",
       "country": "England",
       "role": "Batter",
@@ -298,9 +298,9 @@
     },
     {
       "id": 28,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jason_Holder_2019.jpg/800px-Jason_Holder_2019.jpg",
-      "name": "Jason Holder",
-      "country": "West Indies",
+      "image": "https://i.ibb.co.com/VY9ybLvH/l82120240919130423.webp",
+      "name": "Shubman Gill",
+      "country": "India",
       "role": "All-rounder",
       "rating": 760,
       "batting_style": "Right-handed",
@@ -309,7 +309,7 @@
     },
     {
       "id": 29,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mitchell_Santner_2019.jpg/800px-Mitchell_Santner_2019.jpg",
+      "image": "https://i.ibb.co.com/r2sRJVyN/Mitchell-Santner2024-16.jpg",
       "name": "Mitchell Santner",
       "country": "New Zealand",
       "role": "All-rounder",
@@ -320,7 +320,7 @@
     },
     {
       "id": 30,
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Glenn_Maxwell_2019.jpg/800px-Glenn_Maxwell_2019.jpg",
+      "image": "https://i.ibb.co.com/rGg3nr5S/07-699f9620f4254f2e9aae0f8fe9e580ab.jpg",
       "name": "Glenn Maxwell",
       "country": "Australia",
       "role": "All-rounder",
