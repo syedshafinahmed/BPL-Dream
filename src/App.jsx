@@ -26,6 +26,8 @@ function App() {
         </div>
       </div>
 
+      {/* available / selected */}
+
       <Suspense fallback={<p>Loading...</p>}>
         <AvailablePlayers playersPromise={playersPromise}></AvailablePlayers>
       </Suspense>
