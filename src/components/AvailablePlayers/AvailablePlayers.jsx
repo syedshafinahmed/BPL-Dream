@@ -6,10 +6,10 @@ const AvailablePlayers = ({ playersPromise }) => {
     const playerData = use(playersPromise)
     // const {image, name, country, role, rating, batting_style, bowling_style, price_usd} = playerData;
     return (
-        <div className='max-w-7xl mx-auto grid grid-cols-3 justify-items-center gap-y-8'>
+        <div className='max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-8  justify-items-center'>
 
         {
-            playerData.map(player => <div className="card bg-base-100 w-96 shadow-sm">
+            playerData.map(player => <div className="card bg-base-100 w-90 shadow-sm">
                 <figure>
                     <img className='h-60 w-full object-cover'
                         src={player.image}
