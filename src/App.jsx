@@ -1,6 +1,5 @@
 import { Suspense, useState } from 'react'
-import navImg from './assets/logo.png';
-import dollarImg from './assets/Currency.png';
+
 import './App.css';
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
@@ -11,9 +10,12 @@ const playersPromise = fetch('/players.json')
 
 function App() {
 
-  const [toggle, setToggle] = useState(false)
+  const [toggle, setToggle] = useState(true)
 
   const [availableBalance, setAvailableBalance] = useState(900000000)
+
+  const [purchasedPlayers, setPurchasedPlayers] = useState([])
+  
 
 
   return (
@@ -35,8 +37,8 @@ function App() {
         toggle == true ? <Suspense className='text-center mx-auto' fallback={<div className="flex items-center justify-center min-h-screen">
           <p className="text-xl font-medium">Loading  <span className='loading loading-spinner loading-xl'></span></p>
         </div>}>
-          <AvailablePlayers availableBalance={availableBalance} setAvailableBalance={setAvailableBalance} playersPromise={playersPromise}></AvailablePlayers>
-        </Suspense> : <SelectedPlayers></SelectedPlayers>
+          <AvailablePlayers setPurchasedPlayers={setPurchasedPlayers} purchasedPlayers={purchasedPlayers} availableBalance={availableBalance} setAvailableBalance={setAvailableBalance} playersPromise={playersPromise}></AvailablePlayers>
+        </Suspense> : <SelectedPlayers purchasedPlayers={purchasedPlayers}></SelectedPlayers>
       }
 
 

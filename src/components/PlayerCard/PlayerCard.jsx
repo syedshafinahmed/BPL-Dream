@@ -1,13 +1,15 @@
 import React, { use, useState } from 'react';
 import userImg from '../../assets/Group.png'
 
-const PlayerCard = ({ player, setAvailableBalance, availableBalance }) => {
+const PlayerCard = ({ player, setAvailableBalance, availableBalance, setPurchasedPlayers, purchasedPlayers }) => {
     const [isSelected, setIsSelected] = useState(false)
     const handleSelected = (player) => {
         const playerPrice = player.price_usd;
         if (availableBalance > playerPrice) {
             setIsSelected(true)
             setAvailableBalance(availableBalance - playerPrice)
+
+            setPurchasedPlayers([...purchasedPlayers, player])
         }
         else{
             alert(`You don't have enough money!`)
@@ -15,9 +17,9 @@ const PlayerCard = ({ player, setAvailableBalance, availableBalance }) => {
 
     }
     return (
-        <div className="card bg-base-100 w-100 shadow-sm">
+        <div className="card bg-base-100 w-full sm:w-72 md:w-80 lg:w-96 shadow-sm">
             <figure>
-                <img className='h-60 w-full object-cover'
+                <img className='h-80 lg:h-60 w-full object-cover'
                     src={player.image}
                     alt="Players" />
             </figure>
