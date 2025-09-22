@@ -9,7 +9,7 @@ const AvailablePlayers = ({ playersPromise }) => {
         <div className='max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-8  justify-items-center'>
 
         {
-            playerData.map(player => <div className="card bg-base-100 w-90 shadow-sm">
+            playerData.map(player => <div className="card bg-base-100 w-100 shadow-sm">
                 <figure>
                     <img className='h-60 w-full object-cover'
                         src={player.image}

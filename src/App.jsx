@@ -10,10 +10,12 @@ const playersPromise = fetch('/players.json')
 
 function App() {
 
+  const [toggle, setToggle] = useState(false)
+
 
   return (
     <>
-      <div className="navbar max-w-7xl mx-auto">
+      <div className="navbar max-w-7xl mx-auto p-5">
         <div className="flex-1">
           <a className="text-xl">
             <img className='w-[60px] h-[60px]' src={navImg} alt="" />
@@ -26,16 +28,29 @@ function App() {
         </div>
       </div>
 
+      <div className='max-w-7xl mx-auto flex justify-between items-center pb-10 px-5'>
+        <h1 className='font-bold text-2xl'>Available Players</h1>
+        <div className='font-medium text-black '>
+          <button onClick={() => setToggle(true)} className={`py-3 px-4 rounded-tl-2xl rounded-bl-2xl border-r-0 ${toggle === true ? 'bg-[#E7FE29]' : 'bg-white'}`}>Available</button>
+          <button onClick={() => setToggle(false)} className={`py-3 px-4 rounded-tr-2xl rounded-br-2xl border-r-0 ${toggle === false ? 'bg-[#E7FE29]' : 'bg-white'}`}>Seleceted <span>{0}</span></button>
+        </div>
+      </div>
+
       {/* available / selected */}
 
-      <Suspense fallback={<p>Loading...</p>}>
-        <AvailablePlayers playersPromise={playersPromise}></AvailablePlayers>
-      </Suspense>
+
+      {
+        toggle == true ? <Suspense fallback={<p>Loading...</p>}>
+          <AvailablePlayers playersPromise={playersPromise}></AvailablePlayers>
+        </Suspense> : <SelectedPlayers></SelectedPlayers>
+      }
 
 
 
 
-      {/* <SelectedPlayers></SelectedPlayers> */}
+
+
+
 
     </>
   )
