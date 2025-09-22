@@ -8,7 +8,7 @@
       "rating": 780,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm orthodox",
-      "price_usd": 600000
+      "price_usd": 620000
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "rating": 740,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 600000
+      "price_usd": 580000
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "rating": 760,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 600000
+      "price_usd": 470000
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
       "rating": 730,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 600000
+      "price_usd": 570000
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
       "rating": 760,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 600000
+      "price_usd": 660000
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
       "rating": 720,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm medium",
-      "price_usd": 600000
+      "price_usd": 300000
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
       "rating": 710,
       "batting_style": "Left-handed",
       "bowling_style": "Right-arm off break",
-      "price_usd": 600000
+      "price_usd": 350000
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
       "rating": 700,
       "batting_style": "Left-handed",
       "bowling_style": "N/A",
-      "price_usd": 600000
+      "price_usd": 490000
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
       "rating": 700,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 600000
+      "price_usd": 390000
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
       "rating": 739,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 600000
+      "price_usd": 620000
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
       "rating": 908,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 720000
+      "price_usd": 780000
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
       "rating": 850,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 600000
+      "price_usd": 890000
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
       "rating": 756,
       "batting_style": "Left-handed",
       "bowling_style": "Right-arm medium",
-      "price_usd": 720000
+      "price_usd": 930000
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
       "rating": 800,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast-medium",
-      "price_usd": 720000
+      "price_usd": 770000
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
       "rating": 816,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 720000
+      "price_usd": 690000
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
       "rating": 750,
       "batting_style": "Left-handed",
       "bowling_style": "N/A",
-      "price_usd": 600000
+      "price_usd": 650000
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
       "rating": 740,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 720000
+      "price_usd": 750000
     },
     {
       "id": 19,
@@ -228,7 +228,7 @@
       "rating": 790,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast",
-      "price_usd": 720000
+      "price_usd": 780000
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
       "rating": 780,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast",
-      "price_usd": 720000
+      "price_usd": 700000
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
       "rating": 770,
       "batting_style": "Left-handed",
       "bowling_style": "Off break",
-      "price_usd": 600000
+      "price_usd": 400000
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
       "rating": 810,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 840000
+      "price_usd": 880000
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
       "rating": 780,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast-medium",
-      "price_usd": 720000
+      "price_usd": 710000
     },
     {
       "id": 26,
@@ -294,7 +294,7 @@
       "rating": 740,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm medium",
-      "price_usd": 600000
+      "price_usd": 660000
     },
     {
       "id": 28,
@@ -327,7 +327,7 @@
       "rating": 770,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm off break",
-      "price_usd": 600000
+      "price_usd": 780000
     }
   ]
   
