@@ -39,8 +39,8 @@ const PlayerCard = ({ player, setAvailableBalance, availableBalance, setPurchase
                     <p>{player.bowling_style}</p>
                 </div>
                 <div className="flex justify-between items-center">
-                    <p>Price: ${player.price_usd} USD</p>
-                    <button disabled={isSelected} onClick={() => { handleSelected(player) }} className={`btn ${isSelected ? 'text-white font-medium' : 'text-white'}`}>{isSelected === true ? 'Selected' : 'Choose Player'}</button>
+                    <p className='font-bold'>Price: ${player.price_usd} USD</p>
+                    <button disabled={isSelected} onClick={() => { handleSelected(player) }} className={`btn ${isSelected ? 'text-black font-medium' : 'text-black bg-[#E7FE29] font-normal'}`}>{isSelected === true ? 'Selected' : 'Choose Player'}</button>
                 </div>
             </div>
         </div>
