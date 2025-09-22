@@ -34,7 +34,7 @@ const PlayerCard = ({ player, setAvailableBalance, availableBalance, setPurchase
                     <div className='flex gap-x-3 items-center'>
                         <img className='w-[30px] h-[20px]' src={player.flag} alt="" /> <h4 className="card-title">{player.country}</h4>
                     </div>
-                    <p>{player.role}</p>
+                    <p className='bg-gray-300 px-5 py-1 text-sm text-gray-700 rounded-xl'>{player.role}</p>
                 </div>
                 <p className='mt-3'>Rating: {player.rating}</p>
                 <div className='flex justify-between mt-4 mb-3'>

@@ -4,6 +4,7 @@ import './App.css';
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
 import NavBar from './components/NavBar/NavBar';
+import NewsLetter from './components/NewsLetter/NewsLetter';
 
 const playersPromise = fetch('/players.json')
   .then(res => res.json())
@@ -27,7 +28,7 @@ function App() {
       <NavBar availableBalance={availableBalance}></NavBar>
 
       <div className='max-w-7xl mx-auto flex justify-between items-center pb-10 px-5'>
-        <h1 className='font-bold text-2xl'>{toggle === true ? 'Available Players' : `Selected Players (${purchasedPlayers.length}/11)`}</h1>
+        <h1 className='font-bold text-base md:text-2xl'>{toggle === true ? 'Available Players' : `Selected Players (${purchasedPlayers.length}/11)`}</h1>
         <div className='font-medium text-black '>
           <button onClick={() => setToggle(true)} className={`py-3 px-4 rounded-tl-2xl rounded-bl-2xl border-r-0 ${toggle === true ? 'bg-[#E7FE29]' : 'bg-white'}`}>Available</button>
           <button onClick={() => setToggle(false)} className={`py-3 px-4 rounded-tr-2xl rounded-br-2xl border-r-0 ${toggle === false ? 'bg-[#E7FE29]' : 'bg-white'}`}>Seleceted ({purchasedPlayers.length})</button>
@@ -44,6 +45,7 @@ function App() {
         </Suspense> : <SelectedPlayers removePlayer={removePlayer} purchasedPlayers={purchasedPlayers}></SelectedPlayers>
       }
 
+      <NewsLetter></NewsLetter>
       <ToastContainer></ToastContainer>
 
     </>
