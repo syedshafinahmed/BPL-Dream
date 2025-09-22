@@ -1,6 +1,6 @@
 import React, { use } from 'react';
-import userImg from '../../assets/Group.png';
-import flagImg from '../../assets/flag.png';
+// import userImg from '../../assets/Group.png';
+// import flagImg from '../../assets/flag.png';
 import PlayerCard from '../PlayerCard/PlayerCard';
 
 const AvailablePlayers = ({ playersPromise, setAvailableBalance, availableBalance, setPurchasedPlayers, purchasedPlayers }) => {
