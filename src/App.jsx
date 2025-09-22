@@ -1,5 +1,5 @@
 import { Suspense, useState } from 'react'
-
+import { ToastContainer } from 'react-toastify';
 import './App.css';
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
@@ -12,7 +12,7 @@ function App() {
 
   const [toggle, setToggle] = useState(true)
 
-  const [availableBalance, setAvailableBalance] = useState(900000000)
+  const [availableBalance, setAvailableBalance] = useState(9000000)
 
   const [purchasedPlayers, setPurchasedPlayers] = useState([])
 
@@ -20,10 +20,7 @@ function App() {
     const filteredData = purchasedPlayers.filter(ply => ply.id !== p.id)
     setPurchasedPlayers(filteredData);
     setAvailableBalance(availableBalance + p.price_usd)
-    
   }
-  
-
 
   return (
     <>
@@ -39,7 +36,6 @@ function App() {
 
       {/* available / selected */}
 
-
       {
         toggle == true ? <Suspense className='text-center mx-auto' fallback={<div className="flex items-center justify-center min-h-screen">
           <p className="text-xl font-medium">Loading  <span className='loading loading-spinner loading-xl'></span></p>
@@ -48,12 +44,7 @@ function App() {
         </Suspense> : <SelectedPlayers removePlayer={removePlayer} purchasedPlayers={purchasedPlayers}></SelectedPlayers>
       }
 
-
-
-
-
-
-
+      <ToastContainer></ToastContainer>
 
     </>
   )
