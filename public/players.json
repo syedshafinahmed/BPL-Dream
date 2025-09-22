@@ -8,7 +8,8 @@
       "rating": 780,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm orthodox",
-      "price_usd": 620000
+      "price_usd": 620000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 2,
@@ -19,7 +20,8 @@
       "rating": 740,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 580000
+      "price_usd": 580000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 3,
@@ -30,7 +32,8 @@
       "rating": 760,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 470000
+      "price_usd": 470000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 4,
@@ -41,7 +44,8 @@
       "rating": 780,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast-medium",
-      "price_usd": 720000
+      "price_usd": 720000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 5,
@@ -52,7 +56,8 @@
       "rating": 730,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 570000
+      "price_usd": 570000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 6,
@@ -63,7 +68,8 @@
       "rating": 760,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 660000
+      "price_usd": 660000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 7,
@@ -74,7 +80,8 @@
       "rating": 720,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm medium",
-      "price_usd": 300000
+      "price_usd": 300000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 8,
@@ -85,7 +92,8 @@
       "rating": 710,
       "batting_style": "Left-handed",
       "bowling_style": "Right-arm off break",
-      "price_usd": 350000
+      "price_usd": 350000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 9,
@@ -96,7 +104,8 @@
       "rating": 700,
       "batting_style": "Left-handed",
       "bowling_style": "N/A",
-      "price_usd": 490000
+      "price_usd": 490000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 10,
@@ -107,7 +116,8 @@
       "rating": 700,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 390000
+      "price_usd": 390000,
+      "flag":"https://i.ibb.co.com/bR6FDH0p/images-1.png"
     },
     {
       "id": 11,
@@ -118,7 +128,8 @@
       "rating": 739,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 620000
+      "price_usd": 620000,
+      "flag":"https://i.ibb.co.com/WvxgShBB/Flag-of-Pakistan-svg.png"
     },
     {
       "id": 12,
@@ -129,7 +140,8 @@
       "rating": 908,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 780000
+      "price_usd": 780000,
+      "flag":"https://i.ibb.co.com/qY3VmXjf/Flag-of-England-svg.png"
     },
     {
       "id": 13,
@@ -140,7 +152,8 @@
       "rating": 850,
       "batting_style": "Right-handed",
       "bowling_style": "Off break",
-      "price_usd": 890000
+      "price_usd": 890000,
+      "flag":"https://i.ibb.co.com/sp2HPzPY/Flag-of-New-Zealand-svg.png"
     },
     {
       "id": 14,
@@ -151,7 +164,8 @@
       "rating": 756,
       "batting_style": "Left-handed",
       "bowling_style": "Right-arm medium",
-      "price_usd": 930000
+      "price_usd": 930000,
+      "flag":"https://i.ibb.co.com/Xxjp0FBX/Flag-of-Australia-converted-svg.webp"
     },
     {
       "id": 15,
@@ -162,7 +176,8 @@
       "rating": 800,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast-medium",
-      "price_usd": 770000
+      "price_usd": 770000,
+      "flag":"https://i.ibb.co.com/qY3VmXjf/Flag-of-England-svg.png"
     },
     {
       "id": 16,
@@ -173,7 +188,8 @@
       "rating": 816,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 690000
+      "price_usd": 690000,
+      "flag":"https://i.ibb.co.com/Xxjp0FBX/Flag-of-Australia-converted-svg.webp"
     },
     {
       "id": 17,
@@ -184,7 +200,8 @@
       "rating": 750,
       "batting_style": "Left-handed",
       "bowling_style": "N/A",
-      "price_usd": 650000
+      "price_usd": 650000,
+      "flag":"https://i.ibb.co.com/NdCZ0CR2/Flag-South-Africa.webp"
     },
     {
       "id": 18,
@@ -195,7 +212,8 @@
       "rating": 740,
       "batting_style": "Right-handed",
       "bowling_style": "N/A",
-      "price_usd": 750000
+      "price_usd": 750000,
+      "flag":"https://i.ibb.co.com/NdCZ0CR2/Flag-South-Africa.webp"
     },
     {
       "id": 19,
@@ -206,7 +224,8 @@
       "rating": 800,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 840000
+      "price_usd": 840000,
+      "flag":"https://i.ibb.co.com/NdCZ0CR2/Flag-South-Africa.webp"
     },
     {
       "id": 20,
@@ -217,7 +236,8 @@
       "rating": 800,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast",
-      "price_usd": 840000
+      "price_usd": 840000,
+      "flag":"https://i.ibb.co.com/Xxjp0FBX/Flag-of-Australia-converted-svg.webp"
     },
     {
       "id": 21,
@@ -228,7 +248,8 @@
       "rating": 790,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast",
-      "price_usd": 780000
+      "price_usd": 780000,
+      "flag":"https://i.ibb.co.com/sp2HPzPY/Flag-of-New-Zealand-svg.png"
     },
     {
       "id": 22,
@@ -239,7 +260,8 @@
       "rating": 780,
       "batting_style": "Left-handed",
       "bowling_style": "Left-arm fast",
-      "price_usd": 700000
+      "price_usd": 700000,
+      "flag":"https://i.ibb.co.com/WvxgShBB/Flag-of-Pakistan-svg.png"
     },
     {
       "id": 23,
@@ -250,7 +272,8 @@
       "rating": 770,
       "batting_style": "Left-handed",
       "bowling_style": "Off break",
-      "price_usd": 400000
+      "price_usd": 400000,
+      "flag":"https://i.ibb.co.com/qY3VmXjf/Flag-of-England-svg.png"
     },
     {
       "id": 24,
@@ -261,7 +284,8 @@
       "rating": 810,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast",
-      "price_usd": 880000
+      "price_usd": 880000,
+      "flag":"https://i.ibb.co.com/Xxjp0FBX/Flag-of-Australia-converted-svg.webp"
     },
     {
       "id": 25,
@@ -272,7 +296,8 @@
       "rating": 780,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast-medium",
-      "price_usd": 710000
+      "price_usd": 710000,
+      "flag":"https://i.ibb.co.com/sp2HPzPY/Flag-of-New-Zealand-svg.png"
     },
     {
       "id": 26,
@@ -283,7 +308,8 @@
       "rating": 750,
       "batting_style": "Left-handed",
       "bowling_style": "Right-arm off break",
-      "price_usd": 720000
+      "price_usd": 720000,
+      "flag":"https://i.ibb.co.com/nN6sfZCP/illustration-of-west-indies-flag-design-vector.jpg"
     },
     {
       "id": 27,
@@ -294,7 +320,8 @@
       "rating": 740,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm medium",
-      "price_usd": 660000
+      "price_usd": 660000,
+      "flag":"https://i.ibb.co.com/qY3VmXjf/Flag-of-England-svg.png"
     },
     {
       "id": 28,
@@ -305,7 +332,8 @@
       "rating": 760,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm fast-medium",
-      "price_usd": 600000
+      "price_usd": 600000,
+      "flag":"https://i.ibb.co.com/RpRM7vj4/Flag-of-India-svg.png"
     },
     {
       "id": 29,
@@ -316,7 +344,8 @@
       "rating": 750,
       "batting_style": "Left-handed",
       "bowling_style": "Slow left-arm orthodox",
-      "price_usd": 600000
+      "price_usd": 600000,
+      "flag":"https://i.ibb.co.com/sp2HPzPY/Flag-of-New-Zealand-svg.png"
     },
     {
       "id": 30,
@@ -327,7 +356,8 @@
       "rating": 770,
       "batting_style": "Right-handed",
       "bowling_style": "Right-arm off break",
-      "price_usd": 780000
+      "price_usd": 780000,
+      "flag":"https://i.ibb.co.com/Xxjp0FBX/Flag-of-Australia-converted-svg.webp"
     }
   ]
   

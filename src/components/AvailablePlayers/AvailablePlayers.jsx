@@ -13,7 +13,7 @@ const AvailablePlayers = ({ playersPromise }) => {
                 <figure>
                     <img className='h-60 w-full object-cover'
                         src={player.image}
-                        alt="Shoes" />
+                        alt="Players" />
                 </figure>
                 <div className="p-3">
                     <div className='flex gap-x-3 items-center'>
@@ -21,7 +21,7 @@ const AvailablePlayers = ({ playersPromise }) => {
                     </div>
                     <div className='flex justify-between items-center mt-3 border-b-1 border-gray-600 pb-3'>
                         <div className='flex gap-x-3 items-center'>
-                            <img className='w-[15px] h-[15px]' src={flagImg} alt="" /> <h4 className="card-title">{player.country}</h4>
+                            <img className='w-[30px] h-[20px]' src={player.flag} alt="" /> <h4 className="card-title">{player.country}</h4>
                         </div>
                         <p>{player.role}</p>
                     </div>
