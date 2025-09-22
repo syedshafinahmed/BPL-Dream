@@ -4,6 +4,7 @@ import dollarImg from './assets/Currency.png';
 import './App.css';
 import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
+import NavBar from './components/NavBar/NavBar';
 
 const playersPromise = fetch('/players.json')
   .then(res => res.json())
@@ -12,21 +13,12 @@ function App() {
 
   const [toggle, setToggle] = useState(false)
 
+  const [availableBalance, setAvailableBalance] = useState(900000000)
+
 
   return (
     <>
-      <div className="navbar max-w-7xl mx-auto p-5">
-        <div className="flex-1">
-          <a className="text-xl">
-            <img className='w-[60px] h-[60px]' src={navImg} alt="" />
-          </a>
-        </div>
-        <div className="flex items-center">
-          <span className='mr-1'>6000000</span>
-          <span className='mr-1'> Coins</span>
-          <img src={dollarImg} alt="" />
-        </div>
-      </div>
+      <NavBar availableBalance={availableBalance}></NavBar>
 
       <div className='max-w-7xl mx-auto flex justify-between items-center pb-10 px-5'>
         <h1 className='font-bold text-2xl'>Available Players</h1>
@@ -40,8 +32,10 @@ function App() {
 
 
       {
-        toggle == true ? <Suspense fallback={<p>Loading...</p>}>
-          <AvailablePlayers playersPromise={playersPromise}></AvailablePlayers>
+        toggle == true ? <Suspense className='text-center mx-auto' fallback={<div className="flex items-center justify-center min-h-screen">
+          <p className="text-xl font-medium">Loading  <span className='loading loading-spinner loading-xl'></span></p>
+        </div>}>
+          <AvailablePlayers availableBalance={availableBalance} setAvailableBalance={setAvailableBalance} playersPromise={playersPromise}></AvailablePlayers>
         </Suspense> : <SelectedPlayers></SelectedPlayers>
       }
 
