@@ -5,6 +5,7 @@ import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers';
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers';
 import NavBar from './components/NavBar/NavBar';
 import NewsLetter from './components/NewsLetter/NewsLetter';
+import Footer from './components/Footer/Footer';
 
 const playersPromise = fetch('/players.json')
   .then(res => res.json())
@@ -46,6 +47,7 @@ function App() {
       }
 
       <NewsLetter></NewsLetter>
+      <Footer></Footer>
       <ToastContainer></ToastContainer>
 
     </>
