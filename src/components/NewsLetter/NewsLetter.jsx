@@ -7,7 +7,7 @@ const NewsLetter = () => {
             <h1 className='font-bold text-2xl pb-5'>Subscribe to our Newsletter</h1>
             <p className='text-gray-600 pb-5'>Get the latest updates and news right in your inbox!</p>
             <div className='flex '>
-                <input className='h-10 w-100' type="text" placeholder='   Enter your email' />
+                <input className='h-10 w-50 md:w-100' type="text" placeholder='   Enter your email' />
                 <button className='btn mb-5 border-none border-black bg-gradient-to-r from-pink-400 to-[#E7FE29] '>Subscribe</button>
             </div>
         </div>
