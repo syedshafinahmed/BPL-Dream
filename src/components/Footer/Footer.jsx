@@ -18,7 +18,7 @@ const Footer = () => {
                         <li>Contact</li>
                     </ul>
                 </div>
-                <div className='w-50 md:w-100 pr-5 md:pr-0'>
+                <div className='w-35 md:w-100 pr-5 md:pr-0'>
                     <h1 className='font-bold text-sm md:text-xl mb-2 text-white'>Subscribe</h1>
                     <p className='text-xs md:text-sm text-gray-500 mb-1'>Subscribe to our newsletter for the latest updates.</p>
                     <div className='flex mt-2'>
