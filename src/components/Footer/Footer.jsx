@@ -18,11 +18,11 @@ const Footer = () => {
                         <li>Contact</li>
                     </ul>
                 </div>
-                <div className='w-35 md:w-100 pr-5 md:pr-0'>
+                <div className='w-40 md:w-100 pr-5 md:pr-0'>
                     <h1 className='font-bold text-sm md:text-xl mb-2 text-white'>Subscribe</h1>
                     <p className='text-xs md:text-sm text-gray-500 mb-1'>Subscribe to our newsletter for the latest updates.</p>
                     <div className='flex mt-2'>
-                        <input className='h-8 text-xs w-20 md:w-55' type="text" placeholder='   Enter your email' />
+                        <input className='h-8 text-xs w-15 md:w-55' type="text" placeholder='   Enter your email' />
                         <button className='px-2 py-1 text-xs rounded-lg border-none border-black bg-gradient-to-r from-pink-400 to-[#E7FE29] '>Subscribe</button>
                     </div>
                 </div>
