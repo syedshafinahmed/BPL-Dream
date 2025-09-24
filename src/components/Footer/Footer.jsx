@@ -27,6 +27,8 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
+            <hr className="border-t-2 border-gray-500" />
+            <div className='text-center text-xs py-5 font-medium text-white'>&copy; Syed Shafin Ahmed. All Rights Reserved.</div>
         </div>
     );
 };
